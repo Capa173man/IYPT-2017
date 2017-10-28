@@ -1,21 +1,17 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9-E    | Melike Şehirli | 644
+9-E    | Nisa Tanılmış  | 642
+9-E    | Ayşenur Bayraktar | 582
 
-#  (buraya proje başlığını yazınız)
-## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
-
+#  WET TOWEL (ISLAK HAVLU)
+##
+Islak bir havlu bir yüzeye vurulduğunda çatlıyormuş gibi ses çıkarır. Bu soruda da bizden bu etkiyi ve biri ıslak biri kuru olan iki havludan ıslak olanının yüzeye vurulduğunda neden daha fazla ses çıkardığını araştırmamız isteniyor. Islak havlunun bu deneyde çıkardığı sesin nedeni kırbaç gibi davranmasıdır. Bu bilgi projemiz için kırbaç, kuru havlu ve ıslak havlu değişkenleriyle yapılabilecek deneyler yaratıyor, araştırmamızı kırbacın hareketine yönlendirmemizi sağlıyor. Kırbacın yüzeye vurulmasındaki sesin bu kadar güçlü çıkması ise kırbacın ses duvarını aşma özelliğinden kaynaklanır. Kırbacın çıkardığı bu ses, savrulma anında kendi etrafında katlanması sonucu yarattığı dalgalanma hareketi ile oluşur. Bu dalga kırbacın uzunluğu boyunca ilerler ve yapısı uca doğru inceldiği için gittikçe hızlanır. Böylece savrulma anından on kat daha hızlı bir biçimde uç noktaya ulaşıp, şaklama sesi duyulduğunda ses duvarını aşmış olur. Islanan havlunun oluşturduğu ses, kırbacın bu hareketiyle açıklanabilir, fakat kırbacın yapısı ile ıslak havlu birebir aynı değildir. Bulunan farklılıklardan dolayı vurulma hareketi ve ses değişecektir, dolayısıyla sorunun çözümünde üzerinde duracağımız bir diğer başlık da olayın deneye dökülmesinde elde edeceğimiz sonuçlardır.
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+ 1.https://www.youtube.com/watch?v=SGGi7AqEvrY
+ 2.http://en.wikipedia.org/wiki/Whipcracking
+ 3.https://www.frmtr.com/garip-olaylar/2546389-ses-duvarini-asan-ilk-icat-nedir.html
+ 4.https://popsci.com.tr/ses-duvarini-asabilen-ilk-icat-nedir/
